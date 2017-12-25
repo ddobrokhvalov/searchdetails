@@ -1,0 +1,14 @@
+.form_inner{
+	display: table;
+}
+.form_inner .row{
+	display: table-row;
+}
+.form_inner .row .col_label{
+	display: table-cell;
+    padding: 10px 20px;
+}
+.form_inner .row .col_field{
+	display: table-cell;
+    padding: 10px 20px;
+}
